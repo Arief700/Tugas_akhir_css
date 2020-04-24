@@ -1,0 +1,11 @@
+#card1, #card2{
+  max-width: 18rem;
+}
+#card3{
+  max-width: 18rem;
+  min-height:16rem;
+}
+
+#icon-footer{
+  font-size:32px
+}
